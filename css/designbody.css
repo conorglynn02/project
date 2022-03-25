@@ -1,0 +1,54 @@
+h3{
+    padding-top: 100px;
+    font-size: 40px;
+    font-family: 'Arvo', serif;
+    margin: auto;
+    margin-left: 40px;
+}
+
+h4{
+    margin-left: 40px;
+    font-family: 'Merriweather', serif;;
+    font-size: 28px;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 40px;
+    margin-right: 70px;
+    text-align: justify;
+}
+
+em{
+    margin-left: 0px;
+    font-family: 'Merriweather', serif;;
+    font-size: 28px;
+    font-style: normal;
+}
+
+.output6_scan{
+    padding-top: 70px;
+
+}
+
+.output6_scan img{
+    width: 80%;
+    padding-left: 100px;
+
+}
+
+p a{
+    color: #f03030;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p a:hover{
+    color: #000;
+    transition: 0.5s;
+}
+
+.centre{
+    text-align: center;
+}
